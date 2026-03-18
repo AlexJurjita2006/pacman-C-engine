@@ -1,0 +1,10 @@
+Jucator: jurjita alexandru    | Varsta: 42 ani | Scor:   860
+Jucator: alex                 | Varsta: 31 ani | Scor:   820
+Jucator: alexandru            | Varsta: 12 ani | Scor:   270
+Jucator: alexandru            | Varsta: 19 ani | Scor:    10
+Jucator: frerg                | Varsta: 18 ani | Scor:    10
+Jucator: wwfw                 | Varsta: 18 ani | Scor:    10
+Jucator: alexandru            | Varsta: 18 ani | Scor:   500
+Jucator: alexandru            | Varsta: 10 ani | Scor:   790
+Jucator: wfwg                 | Varsta: 18 ani | Scor:    10
+Jucator: frwfw                | Varsta: 18 ani | Scor:   430
